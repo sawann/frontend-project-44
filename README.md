@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/MaloVer1471/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/MaloVer1471/frontend-project-44/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/786bc15fd5ab336b376b/maintainability)](https://codeclimate.com/github/MaloVer1471/frontend-project-44/maintainability)
+[![Actions Status](https://github.com/sawann/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/sawann/frontend-project-44/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/786bc15fd5ab336b376b/maintainability)](https://codeclimate.com/github/sawann/frontend-project-44/maintainability)
 
 <h2><b>Description</b></h2>
 <p><i>Brain Games</i> is a set of five console mini-games based on the popular mobile brain-pumping apps.Each game asks questions that need to be answered correctly. After three correct answers the game is considered completed. Wrong answers end the game and prompt you to play again.</p>
@@ -16,21 +16,21 @@
   <h2><b>Overviews</b></h2>
   <h3><b>brain-even</b></h3>
 
-[![asciicast](https://asciinema.org/a/6Tp4xnNVZcJckoXArL8D4b3fM.svg)](https://asciinema.org/a/6Tp4xnNVZcJckoXArL8D4b3fM)
+<a href="https://asciinema.org/a/M6YRRNEcSvLQBpfjZoETIsIeg" target="_blank"><img src="https://asciinema.org/a/M6YRRNEcSvLQBpfjZoETIsIeg.svg" /></a>
 
 <h3><b>brain-calc</b></h3>
 
-[![asciicast](https://asciinema.org/a/DcKsv0xWnQjcdIn386hxNM3b8.svg)](https://asciinema.org/a/DcKsv0xWnQjcdIn386hxNM3b8)
+<a href="https://asciinema.org/a/tdnYY0JBj3srR0rlobxRQsFR9" target="_blank"><img src="https://asciinema.org/a/tdnYY0JBj3srR0rlobxRQsFR9.svg" /></a>
 
  <h3><b>brain-gcd</b></h3>
 
-[![asciicast](https://asciinema.org/a/kPeyGJzqtTAguoDoZPMwt6dPn.svg)](https://asciinema.org/a/kPeyGJzqtTAguoDoZPMwt6dPn)
 
  <h3><b>brain-progression</b></h3>
 
-[![asciicast](https://asciinema.org/a/8EcEtSgkJh5KeWzrsOkeO1nLL.svg)](https://asciinema.org/a/8EcEtSgkJh5KeWzrsOkeO1nLL)
+<a href="https://asciinema.org/a/pmvmCH0cCKcxvnd4SEMTUzdqk" target="_blank"><img src="https://asciinema.org/a/pmvmCH0cCKcxvnd4SEMTUzdqk.svg" /></a>
 
 <h3><b>brain-prime</b></h3>
 
-[![asciicast](https://asciinema.org/a/n7CD57cHIwKssyYleUNPl7vW5.svg)](https://asciinema.org/a/n7CD57cHIwKssyYleUNPl7vW5)
+<a href="https://asciinema.org/a/tux6DZdOOmeJXiJLGvdkreTby" target="_blank"><img src="https://asciinema.org/a/tux6DZdOOmeJXiJLGvdkreTby.svg" /></a>
+
 </div>
